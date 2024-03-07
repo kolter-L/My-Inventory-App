@@ -1,0 +1,10 @@
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\bin\Debug\MyInventoryApp.exe.config
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\bin\Debug\MyInventoryApp.exe
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\bin\Debug\MyInventoryApp.pdb
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\obj\Debug\MyInventoryApp.csproj.AssemblyReference.cache
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\obj\Debug\MyInventoryApp.Properties.Resources.resources
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\obj\Debug\MyInventoryApp.csproj.GenerateResource.cache
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\obj\Debug\MyInventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\obj\Debug\MyInventoryApp.exe
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\obj\Debug\MyInventoryApp.pdb
+C:\Users\kolte\source\repos\MyInventoryApp\MyInventoryApp\obj\Debug\MyInventoryApp.Form1.resources

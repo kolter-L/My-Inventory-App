@@ -1,0 +1,5 @@
+apple, 10.5, 0.5, apple, 116
+table, 200, 150.5, table, 19
+dog, 100, 75.68, dog, 25
+cat, 30, 12.5, cat, 21
+guitar, 1000.50, 10.5, guitar, 50
